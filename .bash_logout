@@ -1,0 +1,1 @@
+/home/alson/.bash_logout
