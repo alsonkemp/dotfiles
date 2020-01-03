@@ -1,1 +1,1 @@
-/home/alson/.bash_profile
+.profile
